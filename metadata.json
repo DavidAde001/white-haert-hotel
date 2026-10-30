@@ -1,0 +1,8 @@
+{
+  "name": "White Heart In't Hotel",
+  "description": "Ultra-luxury 5-star hotel in Ilorin, Nigeria. Located opposite Ilorin International Airport on Egbejila Road. Redefining hospitality with bespoke suites, gourmet dining, and royal comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
